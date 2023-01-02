@@ -29,7 +29,7 @@ const data = {
       slug: 'cat-slim-shirt',
       category: 'Shirts',
       image: '/image/p3.jpg',
-      price: 80,
+      price: 40,
       countInStock: 7,
       brand: 'puma',
       rating: 1,
