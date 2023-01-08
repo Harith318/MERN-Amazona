@@ -115,3 +115,6 @@
     1. create backend api for order/:id
     2. fetch order api in frontend
     3. show order information in 2 cloumns
+30. Pay Order By PayPal
+    1. this step not work in my country
+    2. i will replace with visa later
