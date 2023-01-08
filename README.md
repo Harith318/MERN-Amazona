@@ -118,3 +118,7 @@
 30. Pay Order By PayPal
     1. this step not work in my country
     2. i will replace with visa later
+31. Display Order History
+    1. create order screen
+    2. create order history api
+    3. use api in the frontend
